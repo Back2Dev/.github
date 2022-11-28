@@ -15,6 +15,7 @@
 
 :bicyclist: Cyclists by choice
 <br>
+<br>
 
 ## Born out of a bootcamp exercise made for a not for profit bycicle workshop
 <br>
@@ -28,6 +29,7 @@ Our focus:
 - Modular applications
 - Test driven development
 - Custom made code
+<br>
 
 ## We want to
 <br>
