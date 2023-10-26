@@ -34,7 +34,7 @@ Our focus:
 ## We want to
 <br>
 
-Help people get into the tech industry by providing challenges, mentorship, and guidance.
+Help people by using awesome technology.
 
 Most of what we do is online, but we are based in Melbourne, Australia :australia:
 
